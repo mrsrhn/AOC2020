@@ -1,0 +1,24 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000O\u0000C\u00002\u00000\u00002\u00000\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsrhn/AOC2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsrhn/AOC2020/issues"
+  },
+  "homepage": "https://github.com/mrsrhn/AOC2020#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.14.0"
+  }
+}
